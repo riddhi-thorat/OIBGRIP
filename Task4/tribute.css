@@ -1,0 +1,24 @@
+.body 
+{
+  margin-top: 60px;
+}
+
+.text{
+    text-align: center;
+}
+
+.container{
+    background-color:rgb(141, 139, 139) ;
+}
+.contain {
+
+    margin: 0 250px ;
+}
+.text-last{
+    text-align: center;
+    background-color: rgb(85, 201, 216);
+}
+.con .img{
+    margin: 0 400px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
